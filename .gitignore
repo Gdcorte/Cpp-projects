@@ -4,3 +4,16 @@
 *.cbp
 *.depend
 *.layout
+
+# Temporary ignores
+**/activity05/**
+**/activity06/**
+**/activity07/**
+**/activity08/**
+**/activity09/**
+**/activity10/**
+**/finalActivity/**
+**/trabalho-final-original/**
+**/AEDSI Schedule.txt
+**/02 - Intermediate/**
+**/03 - Advanced/**
