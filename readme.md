@@ -1,1 +1,1 @@
-Diverse University project developed during undergratuade school refactored
+Diverse University project developed during grad school refactored
