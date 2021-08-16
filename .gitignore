@@ -1,13 +1,23 @@
-**/obj/**
+# For MAcOS
+**/**.xcodeproj
+**/**.DS_Store
+
+# For Codeblocks (Windows)
+**/**.cbp
+**/**.layout
+**/**.depend
 **/bin/**
+**/obj/**
+
+**/.vscode/**
+**.exe
+**.example
 
 *.cbp
 *.depend
 *.layout
 
 # Temporary ignores
-**/activity05/**
-**/activity06/**
 **/activity07/**
 **/activity08/**
 **/activity09/**
@@ -16,4 +26,4 @@
 **/trabalho-final-original/**
 **/AEDSI Schedule.txt
 **/02 - Intermediate/**
-**/03 - Advanced/**
+**/03 - Advanced/tmp.txt
